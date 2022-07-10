@@ -1,0 +1,5 @@
+package com.greatlearning.javafsd.studentmanagement.entity;
+
+public class Student {
+
+}
